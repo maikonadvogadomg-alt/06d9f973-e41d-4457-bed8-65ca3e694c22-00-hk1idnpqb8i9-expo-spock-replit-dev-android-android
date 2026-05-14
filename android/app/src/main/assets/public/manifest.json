@@ -1,0 +1,15 @@
+{
+  "name": "06d9f973-e41d-4457-bed8-65ca3e694c22-00-hk1idnpqb8i9.expo.spock.replit.dev",
+  "short_name": "06d9f973-e41d-4457-bed8-65ca3e694c22-00-hk1idnpqb8i9",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#080c18",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
